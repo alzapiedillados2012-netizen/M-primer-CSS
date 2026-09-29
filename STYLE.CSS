@@ -1,15 +1,15 @@
 h1 {
-color: purple
+color: rgb(177, 17, 177)
 font-size: 50 px
 font-family: arial
 }
 p {
-color: gray
+color: rgb(110, 107, 107)
 font-size: 25 px
 font-family: sans-serif
 }
 h2 {
-color: orange
+color: rgb(230, 154, 15)
 font-size: 40 px
 font-family: italic 
 }
