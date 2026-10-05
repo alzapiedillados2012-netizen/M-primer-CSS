@@ -1,15 +1,6 @@
 h1 {
-color: rgb(177, 17, 177)
+color: rgb(177, 17, 177);
 font-size: 50 px
-font-family: arial
+font-family Arial, Helvetica, sans-serif;
 }
-p {
-color: rgb(110, 107, 107)
-font-size: 25 px
-font-family: sans-serif
-}
-h2 {
-color: rgb(230, 154, 15)
-font-size: 40 px
-font-family: italic 
-}
+
